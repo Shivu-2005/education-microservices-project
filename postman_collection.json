@@ -1,0 +1,50 @@
+{
+  "info": {
+    "name": "Education Microservices API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Get Students",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:4201/students"
+      }
+    },
+    {
+      "name": "Get Teachers",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:4202/teachers"
+      }
+    },
+    {
+      "name": "Get Courses",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:4203/courses"
+      }
+    },
+    {
+      "name": "Get Departments",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:4204/departments"
+      }
+    },
+    {
+      "name": "Get Books",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:4205/books"
+      }
+    },
+    {
+      "name": "Get Attendance",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:4206/attendance"
+      }
+    }
+  ]
+}
