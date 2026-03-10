@@ -128,7 +128,7 @@ You can test these APIs using **Postman**.
 
 ## 👨‍💻 Author
 
-**Prajwal J**  
+**Shivu R**  
 Computer Science (AI & ML)  
 ATME College of Engineering
 
